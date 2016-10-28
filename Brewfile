@@ -148,7 +148,7 @@ cask 'imageoptim'
 cask 'grafx'
 # pixelart editor
 
-cask 'invisionsync'
+# cask 'invisionsync'
 # invision
 
 cask 'noun-project'
