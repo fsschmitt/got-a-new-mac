@@ -20,6 +20,7 @@ brew 'nvm'
 brew 'trash'
 brew 'wget'
 brew 'autojump'
+brew 'tree'
 
 #
 # system tools
