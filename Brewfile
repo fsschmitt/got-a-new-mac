@@ -151,7 +151,7 @@ cask 'grafx'
 # cask 'invisionsync'
 # invision
 
-cask 'noun-project'
+# cask 'noun-project'
 # noun project icon finder
 
 cask 'zeplin'
