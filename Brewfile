@@ -59,11 +59,12 @@ cask 'rightfont'
 cask 'fontstand'
 # try expensive fonts for 1h
 
+cask 'slate'
+# rearrange your OSX windows with shortcuts
+
 # cask 'bartender'
 # hide some icons from the OSX toolbar
 
-mas 'DoublePane', id: 409737246
-# rearrange your OSX windows with shortcuts
 
 cask 'the-unarchiver'
 # better Unarchiver for OSX (support more formats but works the same)
