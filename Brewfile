@@ -12,12 +12,11 @@ tap 'homebrew/versions'
 #
 
 # OSX Terminal stuff that will make your life easier
-brew 'bash'
 brew 'coreutils'
 brew 'curl'
 brew 'git'
 brew 'git-lfs'
-brew 'n'
+brew 'nvm'
 brew 'trash'
 brew 'wget'
 
