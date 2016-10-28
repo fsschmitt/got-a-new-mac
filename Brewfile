@@ -109,6 +109,7 @@ cask 'haroopad'
 cask 'google-chrome'
 cask 'google-chrome-canary'
 cask 'google-drive'
+cask 'firefox'
 
 cask 'transmit'
 # ftp
@@ -187,3 +188,14 @@ cask 'spotify'
 
 cask 'gifrocket'
 # create gif's from movies
+
+
+
+#
+# Productivity tools
+#
+cask 'notational-velocity'
+# store and retrieve notes
+
+cask 'alfred'
+# boosts your efficiency with hotkeys, keywords, text expansion and more. 
