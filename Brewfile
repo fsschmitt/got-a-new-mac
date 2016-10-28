@@ -91,7 +91,7 @@ cask 'webpquicklook'
 cask 'atom'
 # free and powerful text editor
 
-# cask 'sublime-text'
+cask 'sublime-text3'
 # alternative text editor (a bit faster then atom, but less easy to use)
 
 cask 'haroopad'
