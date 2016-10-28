@@ -1,5 +1,5 @@
-#  gotAnewDesignerMac
-Automatically installs all the Apps a designer needs on his brand new MAC
+#  gotAnewFrontendMac
+Automatically installs all the Apps a Frontend needs on his brand new MAC
 
 ## 💾 Download [here](https://github.com/meodai/gotAnewDesignerMac/archive/master.zip)
 get the files you need [here](https://github.com/meodai/gotAnewDesignerMac/archive/master.zip) and extract them
