@@ -94,6 +94,8 @@ cask 'atom'
 cask 'sublime-text3'
 # alternative text editor (a bit faster then atom, but less easy to use)
 
+cask 'visual-studio-code'
+
 cask 'haroopad'
 # good markdown editor
 
