@@ -41,7 +41,7 @@ cask 'caffeine'
 cask 'disk-inventory-x'
 # helps you to find large files
 
-cask 'hyperterm'
+cask 'iterm2'
 # nicer looking and hackable terminal
 
 cask 'liteicon'
