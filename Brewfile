@@ -19,6 +19,7 @@ brew 'git-lfs'
 brew 'nvm'
 brew 'trash'
 brew 'wget'
+brew 'autojump'
 
 #
 # system tools
