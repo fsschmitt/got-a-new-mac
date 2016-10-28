@@ -154,16 +154,16 @@ cask 'grafx'
 # cask 'noun-project'
 # noun project icon finder
 
-cask 'zeplin'
+# cask 'zeplin'
 # zeplin
 
-cask 'principle'
+# cask 'principle'
 # animation
 
-cask 'screenflow'
+# cask 'screenflow'
 # screenflow
 
-cask 'sketchup'
+# cask 'sketchup'
 # sketchup
 
 # mas '123D Design', id: 566042322
