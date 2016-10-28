@@ -107,6 +107,7 @@ cask 'haroopad'
 # Internet stuff
 #
 cask 'google-chrome'
+cask 'google-chrome-canary'
 cask 'google-drive'
 
 cask 'transmit'
