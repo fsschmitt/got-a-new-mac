@@ -50,7 +50,7 @@ cask 'liteicon'
 cask 'monolingual'
 # tool to remove unused languages for your mac
 
-cask 'recordit'
+cask 'licecap'
 # record a part of the screen as gif
 
 cask 'rightfont'
