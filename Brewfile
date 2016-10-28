@@ -142,7 +142,7 @@ cask 'imagealpha'
 cask 'imageoptim'
 # PNG optimization
 
-cask 'magicavoxel'
+# cask 'magicavoxel'
 # Voxel art
 
 cask 'grafx'
