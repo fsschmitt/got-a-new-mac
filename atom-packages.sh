@@ -80,3 +80,11 @@ apm install autocomplete-modules
 apm install pretty-json
 
 apm install atom-jade
+
+apm install autocomplete-paths
+apm install git-blame
+apm install highlight-selected
+apm install jade-beautify
+apm install linter-eslint
+apm install synced-sidebar
+apm install less-than-slash
