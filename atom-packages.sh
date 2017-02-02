@@ -88,3 +88,6 @@ apm install jade-beautify
 apm install linter-eslint
 apm install synced-sidebar
 apm install less-than-slash
+
+apm install tablr
+# Edit CSV files using a table editor
