@@ -12,7 +12,7 @@ apm install linter-xo
 apm install linter-sass-lint
 apm install linter-stylelint
 apm install linter-tslint
-
+apm install linter-pug
 
 
 
