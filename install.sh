@@ -25,14 +25,10 @@ brew install mas
 echo "🍎 Signing in with your appleID"
 mas signin $APPLEID
 
-echo '❗ next time you are asked for you password, enter you system passowrd'
+echo '❗ The next time you are asked for your password, enter your system password'
 echo '❗ NOT the apple store password:'
-
-echo '🚀 Instaling oh-my-zsh'
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-
 
 # restore installed apps
 brew bundle
 echo '✅ Everything should be installed by now'
-echo 'enjoy your freshly installed MAC '
+echo 'enjoy your freshly installed Mac '
