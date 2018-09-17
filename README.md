@@ -1,7 +1,8 @@
 #  gotAnewMac
-Automatically installs all the Apps a designer needs on your brand new Mac
+Automatically installs a few basic components and apps on your brand new Mac
 
-## 💾 Download this repository.
+## 💾 Download [here](https://github.com/fsschmitt/gotAnewMac/archive/master.zip)
+get the files you need [here](https://github.com/fsschmitt/gotAnewMac/archive/master.zip) and extract them
 
 ## 💻 Installation
 - Open `Brewfile` with TextEdit and make sure to comment out all the Apps you don't want
