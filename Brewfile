@@ -52,6 +52,9 @@ cask 'bartender'
 cask 'the-unarchiver'
 # better Unarchiver for OSX (support more formats but works the same)
 
+cask 'insomnia'
+# Insomnia app helps interact with HTTP-based APIs (REST API Client)
+
 cask 'tunnelbear'
 # VPN
 
