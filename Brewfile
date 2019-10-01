@@ -98,6 +98,7 @@ cask 'transmit'
 cask 'slack'
 cask 'skype'
 cask 'whatsapp'
+cast 'telegram'
 cask 'github-desktop'
 
 #
