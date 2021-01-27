@@ -20,6 +20,7 @@ fi
 
 # installs bundle Bundle
 brew tap Homebrew/bundle
+# install Mac App Store command-line interface
 brew install mas
 
 echo "🍎 Signing in with your appleID"

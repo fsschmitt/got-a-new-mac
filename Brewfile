@@ -18,44 +18,53 @@ brew 'curl'
 brew 'git'
 brew 'git-lfs'
 brew 'n'
+brew 'nvm'
 brew 'trash'
 brew 'wget'
+brew 'tfenv'
+brew 'pipenv'
+brew 'kubernetes-cli'
+brew 'helm'
+brew 'kubectx'
 
 #
 # system tools
 #
 
-cask 'osxfuse'
+# cask 'osxfuse'
 # let you mount windows drives and write on it
 
-cask 'appcleaner'
+cask 'iterm2'
+# iterm2 command line terminal
+
+# cask 'appcleaner'
 # remove apps with system setting files
 
-cask 'caffeine'
+# cask 'caffeine'
 # can keep you mac awake when you give a talk for example
 
-cask 'disk-inventory-x'
+# cask 'disk-inventory-x'
 # helps you to find large files
 
-cask 'hyper'
+# cask 'hyper'
 # nicer looking and hackable terminal
 
-cask 'monolingual'
+# cask 'monolingual'
 # tool to remove unused languages for your mac
 
-cask 'recordit'
+# cask 'recordit'
 # record a part of the screen as gif
 
-cask 'bartender'
+# cask 'bartender'
 # hide some icons from the OSX toolbar
 
 cask 'the-unarchiver'
 # better Unarchiver for OSX (support more formats but works the same)
 
-cask 'insomnia'
+# cask 'insomnia'
 # Insomnia app helps interact with HTTP-based APIs (REST API Client)
 
-cask 'tunnelbear'
+# cask 'tunnelbear'
 # VPN
 
 # extends quicklook so it supports more formats
@@ -74,13 +83,13 @@ cask 'webpquicklook'
 cask 'visual-studio-code'
 # microsoft's visual studio code editor
 
-cask 'atom'
+# cask 'atom'
 # free and powerful text editor
 
 cask 'sublime-text'
 # alternative text editor (a bit faster then atom, but less easy to use)
 
-cask 'haroopad'
+# cask 'haroopad'
 # good markdown editor
 
 #
@@ -92,20 +101,25 @@ cask 'docker'
 #
 # Internet stuff
 #
-cask 'google-chrome'
+# cask 'google-chrome'
+cask 'firefox'
 # browser
 
-cask 'transmit'
+# cask 'transmit'
+# cask 'cyberduck'
 # ftp
 
 #
 # Collaboration
 #
 cask 'slack'
-cask 'skype'
-cask 'whatsapp'
-cast 'telegram'
-cask 'github-desktop'
+cask 'notion'
+cask 'coconutbattery'
+# cask 'skype'
+# cask 'whatsapp'
+# cask 'telegram'
+# cask 'signal'
+# cask 'github-desktop'
 
 #
 # Multimedia & Tools
@@ -113,3 +127,19 @@ cask 'github-desktop'
 
 cask 'vlc'
 cask 'spotify'
+cask 'nvidia-geforce-now'
+cask 'kindle'
+
+#
+# VPN
+#
+cask 'tunnelblick'
+cask 'viscosity'
+cask 'linkliar'
+cask 'protonvpn'
+
+#
+# Password Manager
+#
+cask 'bitwarden'
+cask '1password'
