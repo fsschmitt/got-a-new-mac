@@ -23,6 +23,7 @@ brew 'wget'
 brew 'tfenv'
 brew 'pyenv'
 brew 'pipenv'
+brew 'minikube'
 brew 'kubernetes-cli'
 brew 'kubernetes-helm'
 brew 'kubectx'
@@ -101,9 +102,6 @@ cask 'sublime-text'
 cask 'docker'
 # Docker runtime for Mac
 
-cask 'minikube'
-# Run a Kubernetes cluster locally
-
 cask 'vagrant'
 # Development environment
 
@@ -122,6 +120,7 @@ cask 'firefox'
 # Collaboration
 #
 cask 'slack'
+cask 'discord'
 cask 'notion'
 cask 'coconutbattery'
 # cask 'skype'
