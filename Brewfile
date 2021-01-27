@@ -1,10 +1,6 @@
 tap 'bramstein/webfonttools'
-tap 'caskroom/cask'
 tap 'homebrew/bundle'
 tap 'homebrew/core'
-tap 'homebrew/dupes'
-tap 'homebrew/fuse'
-tap 'homebrew/versions'
 
 
 #
