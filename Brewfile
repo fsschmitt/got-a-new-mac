@@ -17,15 +17,22 @@ brew 'coreutils'
 brew 'curl'
 brew 'git'
 brew 'git-lfs'
+brew 'tmux'
+brew 'fzf'
+brew 'go'
 brew 'n'
 brew 'nvm'
 brew 'trash'
 brew 'wget'
 brew 'tfenv'
+brew 'pyenv'
 brew 'pipenv'
 brew 'kubernetes-cli'
-brew 'helm'
+brew 'kubernetes-helm'
 brew 'kubectx'
+brew 'jq'
+brew 'yq'
+
 
 #
 # system tools
@@ -97,6 +104,12 @@ cask 'sublime-text'
 #
 cask 'docker'
 # Docker runtime for Mac
+
+cask 'minikube'
+# Run a Kubernetes cluster locally
+
+cask 'vagrant'
+# Development environment
 
 #
 # Internet stuff
